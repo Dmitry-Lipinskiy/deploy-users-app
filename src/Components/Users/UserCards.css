@@ -1,0 +1,8 @@
+.btn-black {
+  outline: none;
+  text-decoration: none;
+}
+
+.btn-black:hover {
+  color: white;
+}
